@@ -30,7 +30,7 @@
   }
 
   /* ---------- timeline chart ---------- */
-  var chart = $('chart'), VB = null, AX = null;
+  var chart = $('chart'), VB = null, AX = null, MAXZOOM = 1.6;
   function drawChart() {
     if (!chart) return;
     var v = D.views.filter(function (x) { return x.id === state.view; })[0];
@@ -83,7 +83,7 @@
     VB = [0, 0, W, H]; AX = { xp: xp, ymin: ymin, ymax: ymax };
     applyFilters(); applyEra();
     if (state.cur && inPick[state.cur]) highlight(state.cur); else chart.classList.remove('dim');
-    var eb = $('era'); if (eb) [].forEach.call(eb.querySelectorAll('button'), function (b) { var a = +b.dataset.a, z = +b.dataset.b; b.hidden = a !== 0 && (z < ymin || a > ymax); });
+    var eb = $('era'); if (eb) [].forEach.call(eb.querySelectorAll('button'), function (b) { var a = +b.dataset.a, z = +b.dataset.b; b.hidden = a !== 0 && ys.filter(function (y) { return y >= a && y <= z; }).length < 3; });  /* a period with fewer than three people of this view is not offered */
     var cnt = $('viewcount'); if (cnt) cnt.textContent = v.sum[EN ? 'en' : 'ko'];
   }
   function applyFilters() {
@@ -95,7 +95,9 @@
     var svg = chart && chart.querySelector('svg'); if (!svg) return;
     if (!state.era || state.era[0] === 0) { svg.setAttribute('viewBox', VB.join(' ')); svg.style.minWidth = ''; return; }
     var L = Math.max(0, AX.xp(Math.max(state.era[0], AX.ymin)) - 70), Rr = Math.min(VB[2], AX.xp(Math.min(state.era[1], AX.ymax)) + 240);
-    svg.setAttribute('viewBox', L + ' ' + VB[1] + ' ' + (Rr - L) + ' ' + VB[3]);
+    var minW = VB[2] / MAXZOOM;  /* a narrow period is widened so that labels never grow beyond MAXZOOM times their size in the full view */
+    if (Rr - L < minW) { var mid = (L + Rr) / 2; L = mid - minW / 2; Rr = mid + minW / 2; if (L < 0) { Rr -= L; L = 0; } if (Rr > VB[2]) { L = Math.max(0, L - (Rr - VB[2])); Rr = VB[2]; } }
+    svg.setAttribute('viewBox', L.toFixed(1) + ' ' + VB[1] + ' ' + (Rr - L).toFixed(1) + ' ' + VB[3]);
   }
   function highlight(k) {
     if (!chart) return;

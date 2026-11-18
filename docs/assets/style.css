@@ -78,3 +78,22 @@ details{border:1px solid var(--line);border-radius:10px;background:var(--card);p
 sup{font-size:.7em}
 @media(max-width:700px){.deskonly{display:none}main{padding:1rem 16px 3rem}header{padding:.45rem 16px}header .hub{display:none}.hint{display:block}.ctl label{white-space:normal}.hb{grid-template-columns:minmax(6em,9.5em) 1fr 2.8em;gap:.4rem;font-size:.84rem}th,td{padding:.35rem .45rem}}
 ul.plain{list-style:none;margin:0 0 .3rem;padding:0}ul.plain li{margin:.1rem 0}
+
+h2[id],h3[id],figure[id],nav.toc{scroll-margin-top:var(--hh,.9rem)}
+@media(min-width:1024px){body{overflow-x:clip}h2[id],h3[id],figure[id],nav.toc{scroll-margin-top:var(--hh,6rem)}.sibs{top:var(--hh,6rem);max-height:calc(100vh - var(--hh,6rem) - .8rem)}}
+.hx{margin-left:.45rem;font-family:var(--body);font-size:.8em;font-weight:400;color:var(--fg3);opacity:0;transition:opacity .15s}.hx:hover{text-decoration:none;color:var(--accent)}
+h2:hover .hx,h3:hover .hx,.hx:focus-visible{opacity:1}@media(hover:none){.hx{opacity:.6}}
+nav.toc{border:1px solid var(--line);border-radius:10px;background:var(--card);padding:.7rem 1rem .8rem;margin:1.3rem 0 .2rem;font-size:.92rem;max-width:72ch}
+nav.toc b{display:block;font-size:.84rem;font-weight:600;color:var(--fg2);margin-bottom:.3rem}
+nav.toc ul{list-style:none;margin:0;padding:0;columns:2;column-gap:1.8rem;max-width:none}nav.toc li{margin:0;padding:.14rem 0;break-inside:avoid;line-height:1.5}
+@media(max-width:640px){nav.toc ul{columns:1}}
+.chlist{margin:.1rem 0 1rem;font-size:.92rem}.chlist summary{font-size:.92rem}.chlist summary small{color:var(--fg3);margin-left:.4rem}
+.chlist ol,.chlist .box{list-style:none;margin:.5rem 0 .4rem;padding:.6rem 1rem .7rem;border:1px solid var(--line);border-radius:10px;background:var(--card);max-width:72ch}
+.chlist li{margin:0;padding:.16rem 0;line-height:1.5}.chlist li small{color:var(--fg3);margin-left:.35rem;white-space:nowrap}
+.chlist a[aria-current]{color:var(--fg);font-weight:600}.chlist p{margin:.3rem 0 0;font-size:.88rem}
+.chlist .tree,.chlist .tree ul{list-style:none;margin:0;padding:0}.chlist .tree>li{padding:.3rem 0}.chlist .tree>li>a{font-weight:600}
+.chlist .tree ul{padding-left:1rem;font-size:.95em}.chlist .box b{display:block;margin:.7rem 0 .1rem;font-size:.84rem;font-weight:600;color:var(--fg2);border-top:1px solid var(--line2);padding-top:.6rem}
+.totoc{position:fixed;right:.9rem;bottom:.9rem;z-index:6;font-size:.84rem;font-weight:600;line-height:1;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:.55rem .85rem;box-shadow:var(--shadow)}
+.totoc:hover{text-decoration:none;border-color:var(--accent);color:var(--accent)}
+.navjs .totoc{opacity:0;visibility:hidden;transition:opacity .15s,visibility .15s}.navjs .totoc.show{opacity:1;visibility:visible}
+@media print{.totoc,.hx{display:none}}

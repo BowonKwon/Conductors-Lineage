@@ -94,6 +94,7 @@ nav.toc ul{list-style:none;margin:0;padding:0;columns:2;column-gap:1.8rem;max-wi
 .chlist .tree,.chlist .tree ul{list-style:none;margin:0;padding:0}.chlist .tree>li{padding:.3rem 0}.chlist .tree>li>a{font-weight:600}
 .chlist .tree ul{padding-left:1rem;font-size:.95em}.chlist .box b{display:block;margin:.7rem 0 .1rem;font-size:.84rem;font-weight:600;color:var(--fg2);border-top:1px solid var(--line2);padding-top:.6rem}
 .totoc{position:fixed;right:.9rem;bottom:.9rem;z-index:6;font-size:.84rem;font-weight:600;line-height:1;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:.55rem .85rem;box-shadow:var(--shadow)}
+.tolang{position:fixed;bottom:.9rem;right:calc(.9rem + var(--tocw,0px));z-index:6;font-size:.84rem;font-weight:600;line-height:1;color:var(--fg);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:.55rem .85rem;box-shadow:var(--shadow);opacity:0;visibility:hidden;transition:opacity .15s,visibility .15s}.tolang.show{opacity:1;visibility:visible}.tolang:hover{text-decoration:none;border-color:var(--accent);color:var(--accent)}
 .totoc:hover{text-decoration:none;border-color:var(--accent);color:var(--accent)}
 .navjs .totoc{opacity:0;visibility:hidden;transition:opacity .15s,visibility .15s}.navjs .totoc.show{opacity:1;visibility:visible}
-@media print{.totoc,.hx{display:none}}
+@media print{.totoc,.tolang,.hx{display:none}}

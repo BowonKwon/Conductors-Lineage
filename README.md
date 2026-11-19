@@ -49,6 +49,7 @@ Please report wrong relations, missing sources and misspelled names through the 
 
 ## 판 · Versions
 
+- **0.1.2** (2026-11) — 화면만 고쳤습니다. 헤더가 화면 위에 붙지 않는 폭(1024px 아래)에서 아래로 내려가도 언어를 바꿀 수 있게, 오른쪽 아래에 언어 전환 단추를 띄웁니다. 값은 바뀌지 않았습니다. · Display only. At widths where the header does not stay on screen (below 1024px) a language switch now floats at the bottom right, so the language can be changed further down the page. No values changed.
 - **0.1.1** (2026-11) — 목차에서 절로 바로 가기. 절이 셋 이상인 면에 절 목록을 두고, 절 제목마다 바로가기 링크를 달았습니다. 넓은 화면에서는 위쪽 메뉴가 화면에 남습니다. 축제 레퍼토리 면에 「서양 고전 음악 메트릭스」로 가는 링크 한 줄을 더했고, 그 밖의 본문과 수치는 그대로입니다. · Straight from the contents to a section: a section list on pages with three or more sections, and a link on every section heading. On wide screens the top menu stays on screen. A link to Classical Music Metrics was added on the festival repertoire page; other text and numbers are unchanged.
 - **0.1 탐색판 · exploratory edition** (2026-11) — 계보 그림, 인물 찾기와 계보 나무, 교향악축제, 방법과 출처, 알려진 한계. · Lineage chart, Find a person, Orchestra Festival, Method and sources, Known limits.
 

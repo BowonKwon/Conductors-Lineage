@@ -41,7 +41,7 @@ figcaption{font-size:.88rem;color:var(--fg2);margin-top:.6rem;line-height:1.6}fi
 .viewsum{font-size:.88rem;color:var(--fg2);margin:.2rem 0 .4rem}
 .legend{list-style:none;margin:.3rem 0 .6rem;padding:0;font-size:.86rem;color:var(--fg2);display:grid;gap:.15rem}.legend b{color:var(--fg);font-weight:600}
 .sw{display:inline-block;width:30px;height:0;border-top:3px solid;vertical-align:middle;margin-right:6px}.sw.T{border-color:var(--T)}.sw.A{border-color:var(--A);border-top-style:dashed}.sw.M{border-color:var(--M);border-top-style:dotted}.sw.C{border-color:var(--C)}
-.key{display:inline-block;width:14px;height:12px;vertical-align:-1px;margin-right:6px;border-radius:2px}.key.off{background:var(--T)}.key.wk{background:repeating-linear-gradient(45deg,var(--T) 0 2px,transparent 2px 5px);border:1px solid var(--T)}.key.x{width:auto;height:auto;color:var(--fg3)}
+.key{display:inline-block;width:14px;height:12px;vertical-align:-1px;margin-right:6px;border-radius:2px}.key.off{background:var(--T)}.key.wk{background:color-mix(in srgb,var(--T) 38%,transparent);border:1px solid var(--T)}.key.x{width:auto;height:auto;color:var(--fg3)}
 .wrap{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--card);margin:.4rem 0 .8rem;min-width:0;max-width:100%}
 .wrap.tw{padding:0 .3rem}.wrap table{margin:0}.wrap th{white-space:nowrap}.wrap td{min-width:5.5em}details .wrap td:last-child{min-width:16em}
 .minw{min-width:820px}
@@ -98,3 +98,5 @@ nav.toc ul{list-style:none;margin:0;padding:0;columns:2;column-gap:1.8rem;max-wi
 .totoc:hover{text-decoration:none;border-color:var(--accent);color:var(--accent)}
 .navjs .totoc{opacity:0;visibility:hidden;transition:opacity .15s,visibility .15s}.navjs .totoc.show{opacity:1;visibility:visible}
 @media print{.totoc,.tolang,.hx{display:none}}
+
+.fi{font-size:.92rem;color:var(--fg);margin:.1rem 0 .5rem;line-height:1.55;max-width:100ch}figcaption .cp,.figcap .cp{margin:.45rem 0;max-width:100ch}.figcap{font-size:.88rem;color:var(--fg2);margin-top:.6rem;line-height:1.6}.figcap b{font-weight:600;color:var(--fg);margin-right:.3em}:lang(ko) .fi,:lang(ko) .cp{word-break:keep-all;overflow-wrap:anywhere}

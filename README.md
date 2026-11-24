@@ -1,8 +1,8 @@
 # 지휘의 계보 · Conductors' lineage
 
-지휘자가 누구에게 배웠고 누구 밑에서 부지휘자·어시스턴트로 일했는지를, 관계마다 출처를 밝히고 되도록 그것을 말하는 출처의 문장을 함께 실은 사이트입니다. 비상업 교육용이며, 지금 판은 독립 검증이 끝나기 전의 **0.1 탐색판**입니다.
+지휘자가 누구에게 배웠고 누구 밑에서 부지휘자·어시스턴트로 일했는지를, 관계마다 출처를 밝히고 되도록 그것을 말하는 출처의 문장을 함께 실은 사이트입니다. 비상업 교육용이며, 지금 판은 독립 검증이 끝나기 전의 **0.2 탐색판**입니다.
 
-A site that draws who taught each conductor and under whom each one worked as an assistant conductor, with its source, and wherever possible the source sentence, beside every relation. It is noncommercial and educational; the current release is **exploratory edition 0.1**, published before independent verification is complete.
+A site that draws who taught each conductor and under whom each one worked as an assistant conductor, with its source, and wherever possible the source sentence, beside every relation. It is noncommercial and educational; the current release is **exploratory edition 0.2**, published before independent verification is complete.
 
 - 사이트 · Site: https://bowonkwon.github.io/Conductors-Lineage/
 
@@ -19,11 +19,11 @@ A site that draws who taught each conductor and under whom each one worked as an
 
 ## 관계를 세는 규칙 · How relations are counted
 
-- **정식 수학 · Formal study** — 음악원 과정이나 개인 교습 · a conservatory course or private lessons. 두 수학의 경계는 고르지 않습니다(「알려진 한계」 면). · The line between formal and short study is uneven (see Known limits).
+- **정식 수학 · Formal study** — 음악원 과정이나 개인 교습 · a conservatory course or private lessons. 두 수학을 가르는 기준은 한결같지 않습니다(「알려진 한계」 면). · The line between formal and short study is uneven (see Known limits).
 - **부지휘·어시스턴트 · Assistant** — 윗사람의 이름이 출처에 나오는 부지휘자·어시스턴트·코레페티토르. 악장(콘서트마스터)은 넣지 않습니다. · assistant conductor, associate conductor or répétiteur under a named conductor; concertmasters are not counted.
 - **짧은 수학 · Short study** — 마스터클래스, 여름 강습 · a master class or a summer course.
-- **확정 · Confirmed** — 위키백과가 아닌 출처의 원문에서 그 관계를 말하는 문장을 읽은 경우. **출처 엇갈림 · Sources disagree** — 출처끼리 다른 경우(양쪽을 모두 싣습니다). **후보 · Candidate** — 위키백과에만 있거나 원문을 직접 열지 못한 경우(그리지 않고 데이터 파일에만 둡니다).
-- Confirmed: the sentence stating the relation was read in a source other than Wikipedia. Sources disagree: both sides are shown. Candidate: found only in Wikipedia or in a source that was not opened directly; kept in the data file and not drawn.
+- **확정 · Confirmed** — 위키백과가 아닌 출처의 원문에서 그 관계를 말하는 문장을 읽은 경우. **출처 엇갈림 · Sources disagree** — 출처끼리 다른 경우(양쪽을 모두 싣습니다). **후보 · Candidate** — 위키백과에만 있거나 다른 출처로 확인하지 못한 경우(그리지 않고 데이터 파일에만 둡니다).
+- Confirmed: the sentence stating the relation was read in a source other than Wikipedia. Sources disagree: both sides are shown. Candidate: found only in Wikipedia or not confirmed in another source; kept in the data file and not drawn.
 
 ## 데이터 · Data
 
@@ -49,6 +49,7 @@ Please report wrong relations, missing sources and misspelled names through the 
 
 ## 판 · Versions
 
+- **0.2 탐색판 · exploratory edition** (2026-11) — 위키백과에만 있어 후보로 두었던 출처 줄을 다른 출처로 다시 확인했습니다. 원문에서 문장을 읽은 줄은 그리는 줄로 올리고, 그 스승들을 인물표에 더했습니다. 같은 관계가 두 번 들어간 줄을 합쳤고, 「방법과 출처」와 「알려진 한계」 면에 그 경과를 적었습니다. 수치는 면에 있습니다. · The source rows kept as candidates because they rested on Wikipedia alone were checked again in other sources. Rows whose sentence was read in such a source are now drawn, and their teachers were added to the table of people. Rows that entered the same relation twice were merged, and the Method and Known limits pages describe the re-check. The numbers are on the pages.
 - **0.1.2** (2026-11) — 화면만 고쳤습니다. 헤더가 화면 위에 붙지 않는 폭(1024px 아래)에서 아래로 내려가도 언어를 바꿀 수 있게, 오른쪽 아래에 언어 전환 단추를 띄웁니다. 값은 바뀌지 않았습니다. · Display only. At widths where the header does not stay on screen (below 1024px) a language switch now floats at the bottom right, so the language can be changed further down the page. No values changed.
 - **0.1.1** (2026-11) — 목차에서 절로 바로 가기. 절이 셋 이상인 면에 절 목록을 두고, 절 제목마다 바로가기 링크를 달았습니다. 넓은 화면에서는 위쪽 메뉴가 화면에 남습니다. 축제 레퍼토리 면에 「서양 고전 음악 메트릭스」로 가는 링크 한 줄을 더했고, 그 밖의 본문과 수치는 그대로입니다. · Straight from the contents to a section: a section list on pages with three or more sections, and a link on every section heading. On wide screens the top menu stays on screen. A link to Classical Music Metrics was added on the festival repertoire page; other text and numbers are unchanged.
 - **0.1 탐색판 · exploratory edition** (2026-11) — 계보 그림, 인물 찾기와 계보 나무, 교향악축제, 방법과 출처, 알려진 한계. · Lineage chart, Find a person, Orchestra Festival, Method and sources, Known limits.

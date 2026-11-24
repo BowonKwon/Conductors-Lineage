@@ -2,25 +2,25 @@
 P0001,유렐리 코렐리 힐,Ureli Corelli Hill,0,1802,1875,Q774049,list,conductor,0,0,,1
 P0002,테오도르 아이스펠트,Theodore Eisfeld,0,1816,1882,Q5977060,list,conductor,0,0,,3
 P0003,카를 베르크만,Carl Bergmann,0,1821,1876,Q2076574,list,conductor,0,0,,2
-P0004,레오폴트 담로슈,Leopold Damrosch,0,1832,1885,Q213990,list,conductor,0,0,,1
-P0005,테오도어 토마스,Theodore Thomas,0,1835,1905,Q62613,list,conductor,0,0,,2
-P0006,안톤 자이들,Anton Seidl,0,1850,1898,Q594113,list,conductor,0,0,,2
+P0004,레오폴트 담로슈,Leopold Damrosch,0,1832,1885,Q213990,list,conductor,0,0,,5
+P0005,테오도어 토마스,Theodore Thomas,0,1835,1905,Q62613,list,conductor,0,0,,3
+P0006,안톤 자이들,Anton Seidl,0,1850,1898,Q594113,list,conductor,0,0,,3
 P0007,에밀 파우어,Emil Paur,0,1855,1932,Q78982,list,conductor,0,0,,3
-P0008,발터 담로슈,Walter Damrosch,0,1862,1950,Q725579,list,conductor,0,0,,6
-P0009,바실리 사포노프,Vasily Safonov,0,1852,1918,Q947291,list,conductor,0,0,,3
+P0008,발터 담로슈,Walter Damrosch,0,1862,1950,Q725579,list,conductor,0,0,,8
+P0009,바실리 사포노프,Vasily Safonov,0,1852,1918,Q947291,list,conductor,0,0,,4
 P0010,구스타프 말러,Gustav Mahler,0,1860,1911,Q7304,list,conductor,0,0,,10
 P0011,요제프 스트란스키,Josef Stransky,0,1872,1936,Q2347963,list,conductor,0,0,,4
-P0012,빌럼 멩엘베르흐,Willem Mengelberg,0,1871,1951,Q336725,list,conductor,0,0,,2
+P0012,빌럼 멩엘베르흐,Willem Mengelberg,0,1871,1951,Q336725,list,conductor,0,0,,6
 P0013,아르투로 토스카니니,Arturo Toscanini,0,1867,1957,Q13003,list,conductor,0,0,,5
 P0014,존 바비롤리,John Barbirolli,0,1899,1970,Q346432,list,conductor,0,0,,0
-P0015,아르투르 로진스키,Artur Rodziński,0,1892,1958,Q554610,list,conductor,0,0,,4
+P0015,아르투르 로진스키,Artur Rodziński,0,1892,1958,Q554610,list,conductor,0,0,,7
 P0016,브루노 발터,Bruno Walter,0,1876,1962,Q156910,list,conductor,0,0,,6
 P0017,레오폴드 스토코프스키,Leopold Stokowski,0,1882,1977,Q297562,list,conductor,0,0,,4
 P0018,디미트리 미트로풀로스,Dimitri Mitropoulos,0,1896,1960,Q319741,list,conductor,0,0,,4
-P0019,레너드 번스타인,Leonard Bernstein,0,1918,1990,Q152505,list,conductor,0,0,,12
-P0020,조지 셀,George Szell,0,1897,1970,Q310638,list,conductor,0,0,,9
-P0021,피에르 불레즈,Pierre Boulez,0,1925,2016,Q156193,list,conductor,0,0,,3
-P0022,주빈 메타,Zubin Mehta,0,1936,,Q157635,list,conductor,0,0,,1
+P0019,레너드 번스타인,Leonard Bernstein,0,1918,1990,Q152505,list,conductor,0,0,,18
+P0020,조지 셀,George Szell,0,1897,1970,Q310638,list,conductor,0,0,,10
+P0021,피에르 불레즈,Pierre Boulez,0,1925,2016,Q156193,list,conductor,0,0,,5
+P0022,주빈 메타,Zubin Mehta,0,1936,,Q157635,list,conductor,0,0,,3
 P0023,쿠르트 마주어,Kurt Masur,0,1927,2015,Q157921,list,conductor,0,0,,4
 P0024,로린 마젤,Lorin Maazel,0,1930,2014,Q117710,list,conductor,0,0,,4
 P0025,앨런 길버트,Alan Gilbert,0,1967,,Q673146,list,conductor,0,0,,3
@@ -31,12 +31,12 @@ P0029,요한 고틀리프 나우만,Johann Gottlieb Naumann,0,1741,1801,Q213927,
 P0030,카를 마리아 폰 베버,Carl Maria von Weber,0,1786,1826,Q154812,list,conductor,0,0,root,5
 P0031,카를 고틀리프 라이시거,Carl Gottlieb Reissiger,0,1798,1859,Q213894,list,conductor,0,0,root,4
 P0032,리하르트 바그너,Richard Wagner,0,1813,1883,Q1511,list,conductor,0,0,,3
-P0033,에른스트 폰 슈흐,Ernst von Schuch,0,1846,1914,Q79029,list,conductor,0,0,,2
+P0033,에른스트 폰 슈흐,Ernst von Schuch,0,1846,1914,Q79029,list,conductor,0,0,,3
 P0034,프리츠 라이너,Fritz Reiner,0,1888,1963,Q364179,list,conductor,0,0,,4
 P0035,프리츠 부슈,Fritz Busch,0,1890,1951,Q213569,list,conductor,0,0,,6
 P0036,카를 뵘,Karl Böhm,0,1894,1981,Q84241,list,conductor,0,0,,1
 P0037,루돌프 켐페,Rudolf Kempe,0,1910,1976,Q57915,list,conductor,0,0,,0
-P0038,프란츠 콘비츠니,Franz Konwitschny,0,1901,1962,Q63454,list,conductor,0,0,,0
+P0038,프란츠 콘비츠니,Franz Konwitschny,0,1901,1962,Q63454,list,conductor,0,0,,1
 P0039,쿠르트 잔덜링,Kurt Sanderling,0,1912,2011,Q60455,list,conductor,0,0,,0
 P0040,마르틴 투르노프스키,Martin Turnovský,0,1928,2021,Q2658011,list,conductor,0,0,,2
 P0041,헤르베르트 블롬슈테트,Herbert Blomstedt,0,1927,2026,Q313202,list,conductor,0,0,,3
@@ -52,11 +52,11 @@ P0050,요한 필리프 크리스티안 슐츠,Johann Philipp Christian Schulz,0,
 P0051,크리스티안 아우구스트 폴렌츠,Christian August Pohlenz,0,1790,1843,Q214099,list,conductor,0,0,root,0
 P0052,펠릭스 멘델스존 바르톨디,Felix Mendelssohn Bartholdy,0,1809,1847,Q46096,list,conductor,0,0,,5
 P0053,페르디난트 다비트,Ferdinand David,0,1810,1873,Q215083,list,conductor,0,0,,4
-P0054,페르디난트 힐러,Ferdinand Hiller,0,1811,1885,Q213530,list,conductor,0,0,,0
-P0055,닐스 빌헬름 가데,Niels Wilhelm Gade,0,1817,1890,Q154632,list,conductor,0,0,,3
+P0054,페르디난트 힐러,Ferdinand Hiller,0,1811,1885,Q213530,list,conductor,0,0,,2
+P0055,닐스 빌헬름 가데,Niels Wilhelm Gade,0,1817,1890,Q154632,list,conductor,0,0,,4
 P0056,율리우스 리츠,Julius Rietz,0,1812,1877,Q63745,list,conductor,0,0,,7
 P0057,카를 라이네케,Carl Reinecke,0,1824,1910,Q159569,list,conductor,0,0,,5
-P0058,아르투르 니키슈,Arthur Nikisch,0,1855,1922,Q57210,list,conductor,0,0,,10
+P0058,아르투르 니키슈,Arthur Nikisch,0,1855,1922,Q57210,list,conductor,0,0,,12
 P0059,빌헬름 푸르트뱅글러,Wilhelm Furtwängler,0,1886,1954,Q57285,list,conductor,0,0,,5
 P0060,헤르만 아벤트로트,Hermann Abendroth,0,1883,1956,Q57500,list,conductor,0,0,,5
 P0061,헤르베르트 알베르트,Herbert Albert,0,1903,1973,Q65736,list,conductor,0,0,,0
@@ -64,62 +64,62 @@ P0062,바츨라프 노이만,Václav Neumann,0,1920,1995,Q450793,list,conductor,
 P0063,리카르도 샤이,Riccardo Chailly,0,1953,,Q371795,list,conductor,0,0,,4
 P0064,안드리스 넬손스,Andris Nelsons,0,1978,,Q511817,list,conductor,0,0,,4
 P0065,한스 리히터,Hans Richter,0,1843,1916,Q366147,list,conductor,0,0,,8
-P0066,에드워드 엘가,Edward Elgar,0,1857,1934,Q179631,list,conductor,0,0,,0
+P0066,에드워드 엘가,Edward Elgar,0,1857,1934,Q179631,list,conductor,0,0,,1
 P0067,토머스 비첨,Thomas Beecham,0,1879,1961,Q313714,list,conductor,0,0,,2
-P0068,앨버트 코츠,Albert Coates,0,1882,1953,Q2595770,list,conductor,0,0,,4
+P0068,앨버트 코츠,Albert Coates,0,1882,1953,Q2595770,list,conductor,0,0,,5
 P0069,해밀턴 하티,Hamilton Harty,0,1879,1941,Q287259,list,conductor,0,0,,1
 P0070,요제프 크립스,Josef Krips,0,1902,1974,Q93751,list,conductor,0,0,,4
-P0071,피에르 몽퇴,Pierre Monteux,0,1875,1964,Q434972,list,conductor,0,0,,7
-P0072,이슈트반 케르테스,István Kertész,0,1929,1973,Q503253,list,conductor,0,0,,3
+P0071,피에르 몽퇴,Pierre Monteux,0,1875,1964,Q434972,list,conductor,0,0,,8
+P0072,이슈트반 케르테스,István Kertész,0,1929,1973,Q503253,list,conductor,0,0,,4
 P0073,앙드레 프레빈,André Previn,0,1929,2019,Q155712,list,conductor,0,0,,4
-P0074,클라우디오 아바도,Claudio Abbado,0,1933,2014,Q151608,list,conductor,0,0,,8
+P0074,클라우디오 아바도,Claudio Abbado,0,1933,2014,Q151608,list,conductor,0,0,,10
 P0075,마이클 틸슨 토머스,Michael Tilson Thomas,0,1944,,Q520493,list,conductor,0,0,,5
 P0076,콜린 데이비스,Colin Davis,0,1927,2013,Q366624,list,conductor,0,0,,1
-P0077,발레리 게르기예프,Valery Gergiev,0,1953,,Q165693,list,conductor,0,0,,2
+P0077,발레리 게르기예프,Valery Gergiev,0,1953,,Q165693,list,conductor,0,0,,3
 P0078,사이먼 래틀,Simon Rattle,0,1955,,Q157814,list,conductor,0,0,,3
-P0079,안토니오 파파노,Antonio Pappano,0,1959,,Q1125383,list,conductor,0,0,,4
+P0079,안토니오 파파노,Antonio Pappano,0,1959,,Q1125383,list,conductor,0,0,,5
 P0080,빌럼 케스,Willem Kes,0,1856,1934,Q540896,list,conductor,0,0,,6
 P0081,에뒤아르트 반 베이늄,Eduard van Beinum,0,1900,1959,Q508916,list,conductor,0,0,,2
 P0082,오이겐 요훔,Eugen Jochum,0,1902,1987,Q57419,list,conductor,0,0,,2
-P0083,마리스 얀손스,Mariss Jansons,0,1943,2019,Q158340,list,conductor,0,0,,6
+P0083,마리스 얀손스,Mariss Jansons,0,1943,2019,Q158340,list,conductor,0,0,,7
 P0084,클라우스 메켈레,Klaus Mäkelä,0,1996,,Q50806463,list,conductor,0,0,,4
 P0085,한스 폰 뷜로,Hans von Bülow,0,1830,1894,Q155540,list,conductor,0,0,,8
 P0086,레오 보르하르트,Leo Borchard,0,1899,1945,Q706770,list,conductor,0,0,,4
-P0087,세르지우 첼리비다케,Sergiu Celibidache,0,1912,1996,Q165671,list,conductor,0,0,,7
-P0088,헤르베르트 폰 카라얀,Herbert von Karajan,0,1908,1989,Q154895,list,conductor,0,0,,11
-P0089,키릴 페트렌코,Kirill Petrenko,0,1972,,Q478275,list,conductor,0,0,,1
+P0087,세르지우 첼리비다케,Sergiu Celibidache,0,1912,1996,Q165671,list,conductor,0,0,,9
+P0088,헤르베르트 폰 카라얀,Herbert von Karajan,0,1908,1989,Q154895,list,conductor,0,0,,12
+P0089,키릴 페트렌코,Kirill Petrenko,0,1972,,Q478275,list,conductor,0,0,,2
 P0090,조지 헨셸,George Henschel,0,1850,1934,Q64238,list,conductor,0,0,,9
 P0091,빌헬름 게리케,Wilhelm Gericke,0,1845,1925,Q78895,list,conductor,0,0,,1
 P0092,카를 무크,Karl Muck,0,1859,1940,Q62097,list,conductor,0,0,,2
 P0093,막스 피들러,Max Fiedler,0,1859,1939,Q571482,list,conductor,0,0,,1
 P0094,앙리 라보,Henri Rabaud,0,1873,1949,Q503861,list,conductor,0,0,,2
-P0095,세르게이 쿠세비츠키,Serge Koussevitzky,0,1874,1951,Q353449,list,conductor,0,0,,6
+P0095,세르게이 쿠세비츠키,Serge Koussevitzky,0,1874,1951,Q353449,list,conductor,0,0,,8
 P0096,샤를 뮌슈,Charles Munch,0,1891,1968,Q503940,list,conductor,0,0,,6
 P0097,에리히 라인스도르프,Erich Leinsdorf,0,1912,1993,Q78602,list,conductor,0,0,,4
 P0098,윌리엄 스타인버그,William Steinberg,0,1899,1978,Q213892,list,conductor,0,0,,6
-P0099,오자와 세이지,Seiji Ozawa,0,1935,2024,Q313649,list,conductor,0,0,,5
+P0099,오자와 세이지,Seiji Ozawa,0,1935,2024,Q313649,list,conductor,0,0,,6
 P0100,제임스 러바인,James Levine,0,1943,2021,Q336388,list,conductor,0,0,,6
-P0101,오토 니콜라이,Otto Nicolai,0,1810,1849,Q154602,list,conductor,0,0,,3
-P0102,카를 에케르트,Karl Eckert,0,1820,1879,Q551438,list,conductor,0,0,,6
-P0103,오토 데소프,Otto Dessoff,0,1835,1892,Q569463,list,conductor,0,0,,7
-P0104,펠릭스 바인가르트너,Felix Weingartner,0,1863,1942,Q316920,list,conductor,0,0,,8
-P0105,클레멘스 크라우스,Clemens Krauss,0,1893,1954,Q78918,list,conductor,0,0,,6
+P0101,오토 니콜라이,Otto Nicolai,0,1810,1849,Q154602,list,conductor,0,0,,4
+P0102,카를 에케르트,Karl Eckert,0,1820,1879,Q551438,list,conductor,0,0,,7
+P0103,오토 데소프,Otto Dessoff,0,1835,1892,Q569463,list,conductor,0,0,,8
+P0104,펠릭스 바인가르트너,Felix Weingartner,0,1863,1942,Q316920,list,conductor,0,0,,9
+P0105,클레멘스 크라우스,Clemens Krauss,0,1893,1954,Q78918,list,conductor,0,0,,7
 P0106,프레더릭 스톡,Frederick Stock,0,1872,1942,Q481438,list,conductor,0,0,,4
 P0107,데지레 드포,Désiré Defauw,0,1885,1960,Q2915399,list,conductor,0,0,,0
 P0108,라파엘 쿠벨리크,Rafael Kubelík,0,1914,1996,Q158017,list,conductor,0,0,,1
 P0109,장 마르티농,Jean Martinon,0,1910,1976,Q444674,list,conductor,0,0,,6
-P0110,카를로 마리아 줄리니,Carlo Maria Giulini,0,1914,2005,Q430829,list,conductor,0,0,,4
-P0111,게오르크 솔티,Georg Solti,0,1912,1997,Q128085,list,conductor,0,0,,6
+P0110,카를로 마리아 줄리니,Carlo Maria Giulini,0,1914,2005,Q430829,list,conductor,0,0,,6
+P0111,게오르크 솔티,Georg Solti,0,1912,1997,Q128085,list,conductor,0,0,,7
 P0112,다니엘 바렌보임,Daniel Barenboim,0,1942,,Q152768,list,conductor,0,0,,7
-P0113,리카르도 무티,Riccardo Muti,0,1941,,Q276038,list,conductor,0,0,,5
+P0113,리카르도 무티,Riccardo Muti,0,1941,,Q276038,list,conductor,0,0,,6
 P0114,니콜라이 소콜로프,Nikolai Sokoloff,0,1886,1965,Q2080502,list,conductor,0,0,,2
 P0115,크리스토프 폰 도흐나니,Christoph von Dohnányi,0,1929,2025,Q58039,list,conductor,0,0,,3
 P0116,프란츠 벨저 뫼스트,Franz Welser-Möst,0,1960,,Q93820,list,conductor,0,0,,2
 P0117,프리츠 셸,Fritz Scheel,0,1852,1907,Q321664,list,conductor,0,0,,1
 P0118,카를 폴리히,Karl Pohlig,0,1858,1928,Q560632,list,conductor,0,0,,2
 P0119,유진 오먼디,Eugene Ormandy,0,1899,1985,Q344023,list,conductor,0,0,,1
-P0120,볼프강 자발리슈,Wolfgang Sawallisch,0,1923,2013,Q61205,list,conductor,0,0,,4
-P0121,크리스토프 에셴바흐,Christoph Eschenbach,0,1940,,Q60814,list,conductor,0,0,,3
+P0120,볼프강 자발리슈,Wolfgang Sawallisch,0,1923,2013,Q61205,list,conductor,0,0,,7
+P0121,크리스토프 에셴바흐,Christoph Eschenbach,0,1940,,Q60814,list,conductor,0,0,,5
 P0122,샤를 뒤투아,Charles Dutoit,0,1936,,Q116995,list,conductor,0,0,,3
 P0123,야니크 네제세갱,Yannick Nézet-Séguin,0,1975,,Q951548,list,conductor,0,0,,2
 P0124,에밀 쿠페르,Emil Cooper,0,1877,1960,Q2023664,list,conductor,0,0,,2
@@ -128,35 +128,35 @@ P0126,니콜라이 말코,Nikolai Malko,0,1883,1961,Q716305,list,conductor,0,0,,
 P0127,알렉산드르 가우크,Alexander Gauk,0,1893,1963,Q972169,list,conductor,0,0,,5
 P0128,프리츠 슈티드리,Fritz Stiedry,0,1883,1968,Q78611,list,conductor,0,0,,3
 P0129,예브게니 므라빈스키,Yevgeny Mravinsky,0,1903,1988,Q320609,list,conductor,0,0,,6
-P0130,유리 테미르카노프,Yuri Temirkanov,0,1938,2023,Q469552,list,conductor,0,0,,4
-P0131,니콜라이 알렉세예프,Nikolai Alexeev,0,1956,,Q4061705,list,conductor,0,0,,2
+P0130,유리 테미르카노프,Yuri Temirkanov,0,1938,2023,Q469552,list,conductor,0,0,,5
+P0131,니콜라이 알렉세예프,Nikolai Alexeev,0,1956,,Q4061705,list,conductor,0,0,,3
 P0132,일리야 무신,Ilya Musin,0,1904,1999,Q404402,list,conductor,0,0,,8
 P0133,루드비크 비테슬라프 첼란스키,Ludvík Vítězslav Čelanský,0,1870,1931,Q255685,list,conductor,0,0,,0
 P0134,빌렘 제마네크,Vilém Zemánek,0,1875,1922,Q26696166,list,conductor,0,0,,0
 P0135,바츨라프 탈리흐,Václav Talich,0,1883,1961,Q535547,list,conductor,0,0,,8
 P0136,카렐 셰이나,Karel Šejna,0,1896,1982,Q3193083,list,conductor,0,0,,2
 P0137,카렐 안체를,Karel Ančerl,0,1908,1973,Q449504,list,conductor,0,0,,7
-P0138,이르지 벨로흘라베크,Jiří Bělohlávek,0,1946,2017,Q983150,list,conductor,0,0,,6
+P0138,이르지 벨로흘라베크,Jiří Bělohlávek,0,1946,2017,Q983150,list,conductor,0,0,,7
 P0139,게르트 알브레히트,Gerd Albrecht,0,1935,2014,Q61209,list,conductor,0,0,,1
-P0140,블라디미르 발레크,Vladimír Válek,0,1935,2025,Q2386023,list,conductor,0,0,,0
+P0140,블라디미르 발레크,Vladimír Válek,0,1935,2025,Q2386023,list,conductor,0,0,,2
 P0141,블라디미르 아시케나지,Vladimir Ashkenazy,0,1937,,Q157785,list,conductor,0,0,,1
-P0142,즈데네크 마찰,Zdeněk Mácal,0,1936,2023,Q169030,list,conductor,0,0,,0
-P0143,엘리아후 인발,Eliahu Inbal,0,1936,,Q695465,list,conductor,0,0,,1
+P0142,즈데네크 마찰,Zdeněk Mácal,0,1936,2023,Q169030,list,conductor,0,0,,3
+P0143,엘리아후 인발,Eliahu Inbal,0,1936,,Q695465,list,conductor,0,0,,2
 P0144,세묜 비치코프,Semyon Bychkov,0,1952,,Q720037,list,conductor,0,0,,1
-P0145,야쿠브 흐루샤,Jakub Hrůša,0,1981,,Q3508805,list,conductor,0,0,,0
+P0145,야쿠브 흐루샤,Jakub Hrůša,0,1981,,Q3508805,list,conductor,0,0,,1
 P0146,오이제비우스 만디체프스키,Eusebius Mandyczewski,0,1857,1929,Q701340,list,teacher,0,0,,5
 P0147,안톤 브루크너,Anton Bruckner,0,1824,1896,Q81752,list,teacher,0,0,,5
-P0148,이고르 마르케비치,Igor Markevitch,0,1912,1983,Q503355,list,teacher,0,0,,2
-P0149,요제프 헬메스베르거 1세,Joseph Hellmesberger Sr.,0,1828,1893,Q698074,list,teacher,0,0,,4
+P0148,이고르 마르케비치,Igor Markevitch,0,1912,1983,Q503355,list,teacher,0,0,,4
+P0149,요제프 헬메스베르거 1세,Joseph Hellmesberger Sr.,0,1828,1893,Q698074,list,teacher,0,0,,5
 P0150,막스 레거,Max Reger,0,1873,1916,Q57139,list,teacher,0,0,,5
-P0151,알로이스 클리마,Alois Klíma,0,1905,1980,Q30608718,list,teacher,0,0,,1
+P0151,알로이스 클리마,Alois Klíma,0,1905,1980,Q30608718,list,teacher,0,0,,2
 P0152,카를 프리드리히 첼터,Carl Friedrich Zelter,0,1758,1832,Q58857,list,teacher,0,0,root,3
 P0153,에르뇌 도흐나니,Ernő Dohnányi,0,1877,1960,Q78532,list,teacher,0,0,,3
-P0154,펠릭스 모틀,Felix Mottl,0,1856,1911,Q694070,list,teacher,0,0,,3
+P0154,펠릭스 모틀,Felix Mottl,0,1856,1911,Q694070,list,teacher,0,0,,4
 P0155,프랑코 페라라,Franco Ferrara,0,1911,1985,Q1371884,list,teacher,0,0,,6
-P0156,프란츠 뷜너,Franz Wüllner,0,1832,1902,Q819749,list,teacher,0,0,,1
+P0156,프란츠 뷜너,Franz Wüllner,0,1832,1902,Q819749,list,teacher,0,0,,2
 P0157,한스 스바로프스키,Hans Swarowsky,0,1899,1975,Q78721,list,teacher,0,0,,7
-P0158,요세프 베셀카,Josef Veselka,0,1910,1992,Q28362907,list,teacher,0,0,,1
+P0158,요세프 베셀카,Josef Veselka,0,1910,1992,Q28362907,list,teacher,0,0,,2
 P0159,라차로 우치엘리,Lazzaro Uzielli,0,1861,1943,Q1799706,list,teacher,0,0,,2
 P0160,니콜라이 림스키코르사코프,Nikolai Rimsky-Korsakov,0,1844,1908,Q93227,list,teacher,0,0,,1
 P0161,니콜라이 체렙닌,Nikolai Tcherepnin,0,1873,1945,Q918647,list,teacher,0,0,,2
@@ -167,13 +167,13 @@ P0165,로베르트 푹스,Robert Fuchs,0,1847,1927,Q78606,list,teacher,0,0,,4
 P0166,잘로몬 야다손,Salomon Jadassohn,0,1831,1902,Q547227,list,teacher,0,0,,2
 P0167,뱅상 댕디,Vincent d'Indy,0,1851,1931,Q313584,list,teacher,0,0,,2
 P0168,프리드리히 킬,Friedrich Kiel,0,1821,1885,Q694191,list,teacher,0,0,,2
-P0169,안토니노 보토,Antonino Votto,0,1896,1985,Q599279,list,teacher,0,0,,2
+P0169,안토니노 보토,Antonino Votto,0,1896,1985,Q599279,list,teacher,0,0,,3
 P0170,아르비츠 얀손스,Arvīds Jansons,0,1914,1984,Q2617057,list,teacher,0,0,,1
 P0171,베르나르디노 몰리나리,Bernardino Molinari,0,1880,1952,Q2619703,list,teacher,0,0,,1
 P0172,보후미르 리슈카,Bohumír Liška,0,1914,1990,Q19918285,list,teacher,0,0,,1
 P0173,브루노 마데르나,Bruno Maderna,0,1920,1973,Q351383,list,teacher,0,0,,2
-P0174,벨러 버르토크,Béla Bartók,0,1881,1945,Q83326,list,teacher,0,0,,3
-P0175,브르제티슬라프 바칼라,Břetislav Bakala,0,1897,1958,Q1022132,list,teacher,0,0,,0
+P0174,벨러 버르토크,Béla Bartók,0,1881,1945,Q83326,list,teacher,0,0,,4
+P0175,브르제티슬라프 바칼라,Břetislav Bakala,0,1897,1958,Q1022132,list,teacher,0,0,,1
 P0176,에두아르트 슈톨츠,Eduard Stolz,0,,,,list,teacher,0,1,,1
 P0177,에밀 폰 자우어,Emil von Sauer,0,1862,1942,Q447133,list,teacher,0,0,,1
 P0178,에리히 클라이버,Erich Kleiber,0,1890,1956,Q78527,list,teacher,0,0,,0
@@ -181,24 +181,24 @@ P0179,에르뇌 웅게르,Ernő Unger,0,1900,1968,Q20438148,list,teacher,0,0,,0
 P0180,펠릭스 후프카,Felix Hupka,0,1896,1966,Q110264847,list,teacher,0,0,,1
 P0181,페르디난트 라이트너,Ferdinand Leitner,0,1912,1996,Q62461,list,teacher,0,0,,1
 P0182,페르디난트 뢰베,Ferdinand Löwe,0,1863,1925,Q84709,list,teacher,0,0,,0
-P0183,페르난도 프레비탈리,Fernando Previtali,0,1907,1985,Q1352205,list,teacher,0,0,,0
+P0183,페르난도 프레비탈리,Fernando Previtali,0,1907,1985,Q1352205,list,teacher,0,0,,1
 P0184,프랑코 카라촐로,Franco Caracciolo,0,1920,1999,Q3751200,list,teacher,0,0,,0
-P0185,프란티셰크 일레크,František Jílek,0,1913,1993,Q2032991,list,teacher,0,0,,0
+P0185,프란티셰크 일레크,František Jílek,0,1913,1993,Q2032991,list,teacher,0,0,,1
 P0186,프란츠 샬크,Franz Schalk,0,1863,1931,Q79026,list,teacher,0,0,,2
 P0187,프란츠 슈레커,Franz Schreker,0,1878,1934,Q78528,list,teacher,0,0,,3
 P0188,프리츠 슈타인바흐,Fritz Steinbach,0,1855,1916,Q70648,list,teacher,0,0,,3
 P0189,프리츠 츠바이크,Fritz Zweig,0,1893,1984,Q214915,list,teacher,0,0,,0
 P0190,한스 피츠너,Hans Pfitzner,0,1869,1949,Q57358,list,teacher,0,0,,1
-P0191,한스 로스바우트,Hans Rosbaud,0,1895,1962,Q89527,list,teacher,0,0,,0
+P0191,한스 로스바우트,Hans Rosbaud,0,1895,1962,Q89527,list,teacher,0,0,,1
 P0192,한스 지트,Hans Sitt,0,1850,1922,Q566457,list,teacher,0,0,,2
 P0193,하인츠 봉가르츠,Heinz Bongartz,0,1894,1978,Q329332,list,teacher,0,0,,1
 P0194,헤르만 셰르헨,Hermann Scherchen,0,1891,1966,Q60174,list,teacher,0,0,,4
-P0195,사이토 히데오,Hideo Saito,0,1902,1974,Q11679123,list,teacher,0,0,,1
+P0195,사이토 히데오,Hideo Saito,0,1902,1974,Q11679123,list,teacher,0,0,,2
 P0196,알렉산드르 티토프,Alexander Titov,0,,,,list,teacher,0,0,,1
 P0197,아베니르 미하일로프,Avenir Mikhailov,0,,,,list,teacher,0,1,,0
 P0198,잉골프 달,Ingolf Dahl,0,1912,1970,Q973747,list,teacher,0,0,,1
 P0199,이자벨라 벤게로바,Isabelle Vengerova,0,1877,1956,Q525628,list,teacher,0,0,,1
-P0200,장 모렐,Jean Morel,0,1903,1975,Q3173604,list,teacher,0,0,,2
+P0200,장 모렐,Jean Morel,0,1903,1975,Q3173604,list,teacher,0,0,,3
 P0201,요르마 파눌라,Jorma Panula,0,1930,,Q718059,list,teacher,0,0,,8
 P0202,조지프 플러머펠트,Joseph Flummerfelt,0,1937,2019,Q61982629,list,teacher,0,0,,1
 P0203,요제프 샬크,Joseph Schalk,0,1857,1900,Q89463,list,teacher,0,0,,0
@@ -228,62 +228,62 @@ P0227,월퍼드 데이비스,Walford Davies,0,1869,1941,Q3131948,list,teacher,0,
 P0228,빌헬름 브뤼크너뤼게베르크,Wilhelm Brückner-Rüggeberg,0,1906,1985,Q87195,list,teacher,0,0,,2
 P0229,볼프강 바카노,Wolfgang Vacano,0,1906,1985,Q15855058,list,teacher,0,0,,1
 P0230,졸탄 코다이,Zoltán Kodály,0,1882,1967,Q153008,list,teacher,0,0,,6
-P0231,에두아르 콜론,Édouard Colonne,0,1838,1910,Q274278,list,teacher,0,0,,0
-P0232,루도비트 라이테르,Ľudovít Rajter,0,1906,2000,Q835617,list,teacher,0,0,,0
-P0233,니콜라이 라비노비치,Nikolai Rabinovich,0,1908,1972,Q262196,list,teacher,0,0,,1
+P0231,에두아르 콜론,Édouard Colonne,0,1838,1910,Q274278,list,teacher,0,0,,1
+P0232,루도비트 라이테르,Ľudovít Rajter,0,1906,2000,Q835617,list,teacher,0,0,,1
+P0233,니콜라이 라비노비치,Nikolai Rabinovich,0,1908,1972,Q262196,list,teacher,0,0,,2
 P0234,로베르토 카르네발레,Roberto Carnevale,0,1966,,Q1094261,list,teacher,0,0,,0
 P0235,모리스 마일스,Maurice Miles,0,1908,1985,Q107524646,list,teacher,0,0,,1
-P0236,미하엘 길렌,Michael Gielen,0,1927,2019,Q213913,list,teacher,0,0,,0
-P0237,발터 그마인들,Walter Gmeindl,0,1890,1958,Q4140544,list,teacher,0,0,,0
+P0236,미하엘 길렌,Michael Gielen,0,1927,2019,Q213913,list,teacher,0,0,,1
+P0237,발터 그마인들,Walter Gmeindl,0,1890,1958,Q4140544,list,teacher,0,0,,1
 P0238,알렉산더 분더러,Alexander Wunderer,0,1877,1955,Q17104325,list,teacher,0,0,,1
 P0239,에드워드 다운스,Edward Downes,0,1924,2009,Q998576,list,teacher,0,0,,0
 P0240,우로시 라요비츠,Uroš Lajovic,0,1944,,Q2478801,list,teacher,0,0,,1
 P0241,정명훈,Myung-whun Chung,0,1953,,Q153778,list,teacher,1,0,,4
 P0242,지크문트 폰 하우제거,Siegmund von Hausegger,0,1872,1948,Q647871,list,teacher,0,0,,1
 P0243,쿠르트 토마스,Kurt Thomas,0,1904,1973,Q450074,list,teacher,0,0,,1
-P0245,페테르 외트뵈시,Péter Eötvös,0,1944,2024,Q389851,list,teacher,0,0,,2
-P0246,프리츠 슈타인,Fritz Stein,0,1879,1961,Q108300,list,teacher,0,0,,0
+P0245,페테르 외트뵈시,Péter Eötvös,0,1944,2024,Q389851,list,teacher,0,0,,3
+P0246,프리츠 슈타인,Fritz Stein,0,1879,1961,Q108300,list,teacher,0,0,,1
 P0247,구스타프 마이어,Gustav Meier,0,1929,2016,Q1556190,list,teacher,0,0,,4
 P0248,알프레드 센드레이,Alfred Szendrei,0,1884,1976,Q2645991,list,teacher,0,0,,1
-P0249,파보 예르비,Paavo Järvi,0,1962,,Q700791,list,conductor,0,0,,6
+P0249,파보 예르비,Paavo Järvi,0,1962,,Q700791,list,conductor,0,0,,7
 P0250,맥스 루돌프,Max Rudolf,0,1902,1995,Q63560,list,teacher,0,0,,2
 P0251,카를 밤베르거,Carl Bamberger,0,,,,list,teacher,0,0,,2
 P0252,식스텐 에를링,Sixten Ehrling,0,1918,2005,Q1356552,list,teacher,0,0,,1
-P0253,레오니트 그린,Leonid Grin,0,1947,,Q84597322,list,teacher,0,0,,0
+P0253,레오니트 그린,Leonid Grin,0,1947,,Q84597322,list,teacher,0,0,,1
 P0254,카를로스 클라이버,Carlos Kleiber,0,1930,2004,Q160706,list,conductor,0,0,,0
 P0255,니콜라우스 아르농쿠르,Nikolaus Harnoncourt,0,1929,2016,Q78526,list,conductor,0,0,,4
 P0256,페렌츠 프리처이,Ferenc Fricsay,0,1914,1963,Q315589,list,conductor,0,0,,8
 P0257,존 엘리엇 가디너,John Eliot Gardiner,0,1943,,Q160325,list,conductor,0,0,,2
 P0258,찰스 매케러스,Charles Mackerras,0,1925,2010,Q322172,list,conductor,0,0,,2
-P0259,마린 올솝,Marin Alsop,0,1956,,Q242931,list,conductor,0,0,,6
-P0260,호르스트 슈타인,Horst Stein,0,1928,2008,Q62785,list,conductor,0,0,,3
+P0259,마린 올솝,Marin Alsop,0,1956,,Q242931,list,conductor,0,0,,7
+P0260,호르스트 슈타인,Horst Stein,0,1928,2008,Q62785,list,conductor,0,0,,5
 P0261,게오르크 슈네포이크트,Georg Schnéevoigt,0,1872,1947,Q133832,list,conductor,0,0,,3
 P0262,알프레트 헤르츠,Alfred Hertz,0,1872,1942,Q375412,list,conductor,0,0,,1
 P0263,툴리오 세라핀,Tullio Serafin,0,1878,1968,Q551414,list,conductor,0,0,,5
-P0264,라하브 샤니,Lahav Shani,0,1989,,Q41505182,list,conductor,0,0,,4
+P0264,라하브 샤니,Lahav Shani,0,1989,,Q41505182,list,conductor,0,0,,5
 P0265,대니얼 하딩,Daniel Harding,0,1975,,Q524328,list,conductor,0,0,,2
 P0266,투간 소히예프,Tugan Sokhiev,0,1977,,Q737849,list,conductor,0,0,,2
 P0267,헤르만 레비,Hermann Levi,0,1839,1900,Q61175,list,conductor,0,0,,3
 P0268,리하르트 슈트라우스,Richard Strauss,0,1864,1949,Q13894,list,conductor,0,0,,6
-P0269,언털 도라티,Antal Doráti,0,1906,1988,Q355978,list,conductor,0,0,,3
+P0269,언털 도라티,Antal Doráti,0,1906,1988,Q355978,list,conductor,0,0,,5
 P0270,앙드레 클뤼탕스,André Cluytens,0,1905,1967,Q518038,list,conductor,0,0,,1
 P0271,에르네스트 앙세르메,Ernest Ansermet,0,1883,1969,Q123603,list,conductor,0,0,,5
 P0272,에사페카 살로넨,Esa-Pekka Salonen,0,1958,,Q314587,list,conductor,0,0,,5
 P0273,에이드리언 볼트,Adrian Boult,0,1889,1983,Q372697,list,conductor,0,0,,7
 P0274,맬컴 사전트,Malcolm Sargent,0,1895,1967,Q731292,list,conductor,0,0,,1
 P0275,겐나디 로즈데스트벤스키,Gennady Rozhdestvensky,0,1931,2018,Q437262,list,conductor,0,0,,3
-P0276,귀도 칸텔리,Guido Cantelli,0,1920,1956,Q712014,list,conductor,0,0,,2
+P0276,귀도 칸텔리,Guido Cantelli,0,1920,1956,Q712014,list,conductor,0,0,,3
 P0277,프란스 브뤼헨,Frans Brüggen,0,1934,2014,Q711810,list,conductor,0,0,,1
-P0278,폴 파레,Paul Paray,0,1886,1979,Q935950,list,conductor,0,0,,4
-P0279,크리스토퍼 호그우드,Christopher Hogwood,0,1941,2014,Q435198,list,conductor,0,0,,4
+P0278,폴 파레,Paul Paray,0,1886,1979,Q935950,list,conductor,0,0,,5
+P0279,크리스토퍼 호그우드,Christopher Hogwood,0,1941,2014,Q435198,list,conductor,0,0,,5
 P0280,윌리엄 크리스티,William Christie,0,1944,,Q376588,list,conductor,0,0,,7
 P0281,트레버 피넉,Trevor Pinnock,0,1946,,Q434774,list,conductor,0,0,,2
-P0282,톤 코프만,Ton Koopman,0,1944,,Q445121,list,conductor,0,0,,0
+P0282,톤 코프만,Ton Koopman,0,1944,,Q445121,list,conductor,0,0,,1
 P0283,필리프 헤레베허,Philippe Herreweghe,0,1947,,Q168039,list,conductor,0,0,,3
 P0284,시기스발트 카위컨,Sigiswald Kuijken,0,1944,,Q506771,list,conductor,0,0,,1
 P0285,조르디 사발,Jordi Savall,0,1941,,Q317182,list,conductor,0,0,,2
-P0286,김은선,Kim Eun-sun,0,1980,,Q59828688,list,conductor,1,0,,0
-P0287,안익태,Ahn Eak-tai,0,1906,1965,Q496386,list,conductor,1,0,,5
+P0286,김은선,Kim Eun-sun,0,1980,,Q59828688,list,conductor,1,0,,2
+P0287,안익태,Ahn Eak-tai,0,1906,1965,Q496386,list,conductor,1,0,,6
 P0288,장한나,Han-na Chang,0,1982,,Q323075,list,conductor,1,0,,1
 P0289,성시연,Shi-Yeon Sung,0,1975,,Q1675318,list,conductor,1,0,,2
 P0290,카를 엘멘도르프,Karl Elmendorff,0,1891,1962,Q65148,list,conductor,0,0,,2
@@ -307,7 +307,7 @@ P0307,오스발트 카바스타,Oswald Kabasta,0,1896,1946,Q697836,list,conducto
 P0308,프리츠 리거,Fritz Rieger,0,1910,1978,Q72152,list,conductor,0,0,,3
 P0309,나르시스 지라르,Narcisse Girard,0,1797,1860,Q1390375,list,conductor,0,0,,0
 P0310,테오필 틸망,Théophile Tilmant,0,1799,1878,Q441775,list,conductor,0,0,,1
-P0311,프랑수아 조르주앵,François George-Hainl,0,1807,1873,Q4181100,list,conductor,0,0,,0
+P0311,프랑수아 조르주앵,François George-Hainl,0,1807,1873,Q4181100,list,conductor,0,0,,1
 P0312,에두아르 델드베,Édouard Deldevez,0,1817,1897,Q936364,list,conductor,0,0,,3
 P0313,쥘 가르생,Jules Garcin,0,1830,1896,Q2389353,list,conductor,0,0,,6
 P0314,폴 타파넬,Paul Taffanel,0,1844,1908,Q287462,list,conductor,0,0,,2
@@ -319,7 +319,7 @@ P0319,산투마티아스 로우발리,Santtu-Matias Rouvali,0,1985,,Q2706949,lis
 P0320,만프레트 호네크,Manfred Honeck,0,1958,,Q78811,list,conductor,0,0,,2
 P0321,루돌프 슈바르츠,Rudolf Schwarz,0,1905,1994,Q85948,list,conductor,0,0,,1
 P0322,존 프리처드,John Pritchard,0,1921,1989,Q43334,list,conductor,0,0,,1
-P0323,레너드 슬래트킨,Leonard Slatkin,0,1944,,Q509870,list,conductor,0,0,,3
+P0323,레너드 슬래트킨,Leonard Slatkin,0,1944,,Q509870,list,conductor,0,0,,5
 P0324,사카리 오라모,Sakari Oramo,0,1965,,Q278650,list,conductor,0,0,,1
 P0325,월터 헨리 로스웰,Walter Henry Rothwell,0,1872,1927,Q1125938,list,conductor,0,0,,6
 P0326,앨프리드 월런스틴,Alfred Wallenstein,0,1898,1983,Q1284004,list,conductor,0,0,,1
@@ -327,43 +327,43 @@ P0327,헨리 해들리,Henry Hadley,0,1871,1937,Q707340,list,conductor,0,0,,4
 P0328,배질 캐머런,Basil Cameron,0,1884,1975,Q3635617,list,conductor,0,0,,3
 P0329,이사이 도브로웬,Issay Dobrowen,0,1891,1953,Q181145,list,conductor,0,0,,3
 P0330,엔리케 호르다,Enrique Jordá,0,1911,1996,Q2736328,list,conductor,0,0,,3
-P0331,엘림 찬,Elim Chan,0,1986,,Q25936092,list,conductor,0,0,,1
+P0331,엘림 찬,Elim Chan,0,1986,,Q25936092,list,conductor,0,0,,3
 P0332,클레오폰테 캄파니니,Cleofonte Campanini,0,1860,1919,Q3680509,list,conductor,0,0,,2
 P0333,레오폴도 무뇨네,Leopoldo Mugnone,0,1858,1941,Q6527174,list,conductor,0,0,,2
 P0334,에도아르도 비탈레,Edoardo Vitale,0,1872,1937,Q97190468,list,conductor,0,0,,1
 P0335,지노 마리누치,Gino Marinuzzi,0,1882,1945,Q3106818,list,conductor,0,0,,1
 P0336,오귀스트 비아네지,Auguste Vianesi,0,1837,1908,Q21849684,list,conductor,0,0,,1
 P0337,아르투어 보단츠키,Artur Bodanzky,0,1877,1939,Q714276,list,conductor,0,0,,2
-P0338,요제프 로젠슈토크,Joseph Rosenstock,0,1895,1985,Q214404,list,conductor,0,0,,2
+P0338,요제프 로젠슈토크,Joseph Rosenstock,0,1895,1985,Q214404,list,conductor,0,0,,3
 P0339,쿠르트 뵈스,Kurt Wöss,0,1914,1987,Q89548,list,conductor,0,0,,1
 P0340,카를 아우구스트 크렙스,Karl August Krebs,0,1804,1880,Q4239975,list,conductor,0,0,,3
 P0341,프란체스코 모를라키,Francesco Morlacchi,0,1784,1841,Q571408,list,conductor,0,0,,5
-P0342,페르디난도 파에르,Ferdinando Paer,0,1771,1839,Q533022,list,conductor,0,0,,2
+P0342,페르디난도 파에르,Ferdinando Paer,0,1771,1839,Q533022,list,conductor,0,0,,3
 P0343,한스 크나퍼츠부슈,Hans Knappertsbusch,0,1888,1965,Q57425,list,conductor,0,0,,3
 P0344,클라우스 텐슈테트,Klaus Tennstedt,0,1926,1998,Q61180,list,conductor,0,0,,3
-P0345,로저 노링턴,Roger Norrington,0,1934,2025,Q537083,list,conductor,0,0,,1
+P0345,로저 노링턴,Roger Norrington,0,1934,2025,Q537083,list,conductor,0,0,,2
 P0346,귄터 반트,Günter Wand,0,1912,2002,Q62692,list,conductor,0,0,,7
 P0347,카를 슈리히트,Carl Schuricht,0,1880,1967,Q215798,list,conductor,0,0,,4
-P0348,야샤 호렌슈타인,Jascha Horenstein,0,1898,1973,Q214965,list,conductor,0,0,,3
-P0349,키릴 콘드라신,Kirill Kondrashin,0,1914,1981,Q431025,list,conductor,0,0,,1
+P0348,야샤 호렌슈타인,Jascha Horenstein,0,1898,1973,Q214965,list,conductor,0,0,,4
+P0349,키릴 콘드라신,Kirill Kondrashin,0,1914,1981,Q431025,list,conductor,0,0,,3
 P0350,예브게니 스베틀라노프,Yevgeny Svetlanov,0,1928,2002,Q709440,list,conductor,0,0,,5
-P0351,므스티슬라프 로스트로포비치,Mstislav Rostropovich,0,1927,2007,Q152043,list,conductor,0,0,,6
+P0351,므스티슬라프 로스트로포비치,Mstislav Rostropovich,0,1927,2007,Q152043,list,conductor,0,0,,7
 P0352,이반 피셔,Iván Fischer,0,1951,,Q933913,list,conductor,0,0,,3
 P0353,아담 피셔,Ádám Fischer,0,1949,,Q249545,list,conductor,0,0,,2
 P0354,루트비히 폰 브레너,Ludwig von Brenner,0,1833,1902,Q672469,list,conductor,0,0,,0
 P0355,빌헬름 얀,Wilhelm Jahn,0,1835,1900,Q337528,list,conductor,0,0,,0
-P0356,요제프 헬메스베르거 2세,Joseph Hellmesberger Jr.,0,1855,1907,Q524466,list,conductor,0,0,,1
-P0357,하인리히 쉬츠,Heinrich Schütz,0,1585,1672,Q153643,list,conductor,0,0,root_dresden,5
+P0356,요제프 헬메스베르거 2세,Joseph Hellmesberger Jr.,0,1855,1907,Q524466,list,conductor,0,0,,2
+P0357,하인리히 쉬츠,Heinrich Schütz,0,1585,1672,Q153643,list,conductor,0,0,root_dresden,6
 P0358,헨리 크리스천 팀,Henry Christian Timm,0,1811,1895,Q1606596,list,conductor,0,0,,0
 P0359,드니 에티엔,Denis Etienne,0,,,,list,conductor,0,0,,0
 P0360,윌리엄 앨퍼스,William Alpers,0,,,,list,conductor,0,0,,0
 P0361,조지 로더,George Loder,0,1816,1868,Q18671310,list,conductor,0,0,,0
 P0362,루이스 위거스,Louis Wiegers,0,,,,list,conductor,0,0,,0
 P0363,앨프리드 부셰,Alfred Boucher,0,,,,list,conductor,0,0,,0
-P0364,아돌프 노이엔도르프,Adolf Neuendorff,0,1843,1897,Q363480,list,conductor,0,0,,0
-P0365,어윈 호프먼,Irwin Hoffman,0,1924,2018,Q4410522,list,conductor,0,0,,0
+P0364,아돌프 노이엔도르프,Adolf Neuendorff,0,1843,1897,Q363480,list,conductor,0,0,,3
+P0365,어윈 호프먼,Irwin Hoffman,0,1924,2018,Q4410522,list,conductor,0,0,,1
 P0366,블라디미르 유롭스키,Vladimir Jurowski,0,1972,,Q943125,list,conductor,0,0,,1
-P0367,에드워드 가드너,Edward Gardner,0,1974,,Q5343063,list,conductor,0,0,,1
+P0367,에드워드 가드너,Edward Gardner,0,1974,,Q5343063,list,conductor,0,0,,2
 P0368,사무일 사모수드,Samuil Samosud,0,1884,1964,Q1302277,list,conductor,0,0,,0
 P0369,나탄 라흘린,Natan Rakhlin,0,1906,1979,Q1361982,list,conductor,0,0,,2
 P0370,드미트리 키타옌코,Dmitri Kitayenko,0,1940,,Q664572,list,conductor,0,0,,3
@@ -386,7 +386,7 @@ P0386,정재동,Jeong Jae-dong,0,,,,list,conductor,1,0,,0
 P0387,오스모 벤스케,Osmo Vänskä,0,1953,,Q1382392,list,conductor,0,0,,1
 P0388,요엘 레비,Yoel Levi,0,1950,,Q964896,list,conductor,0,0,,4
 P0389,피에타리 잉키넨,Pietari Inkinen,0,1980,,Q976671,list,conductor,0,0,,0
-P0390,김대진,Dae-Jin Kim,0,1962,,Q9298953,list,conductor,1,0,,0
+P0390,김대진,Dae-Jin Kim,0,1962,,Q9298953,list,conductor,1,0,,1
 P0391,임헌정,Lim Hun-joung,0,1953,,Q12614020,list,conductor,1,0,,2
 P0392,금난새,Nanse Gum,0,1947,,Q625212,list,conductor,1,0,,1
 P0393,정치용,Chi-Yong Chung,0,1957,,Q12616093,list,conductor,1,0,,5
@@ -403,7 +403,7 @@ P0403,구자범,Koo Ja-bum,0,,,,list,conductor,1,0,,0
 P0404,유광,Yoo Kwang,0,,,,list,conductor,1,0,,0
 P0405,양유라,Yura Yang,0,1990,,,list,conductor,1,0,,1
 P0406,조누리,Nuri Jo,0,,,,list,conductor,1,0,,1
-P0407,김선욱,Sunwook Kim,0,1988,,Q626696,list,conductor,1,0,,0
+P0407,김선욱,Sunwook Kim,0,1988,,Q626696,list,conductor,1,0,,1
 P0408,김민,Kim Min,0,1942,,Q16174600,list,conductor,1,0,,0
 P0409,여자경,Yeo Ja-kyung,0,,,,list,conductor,1,0,,1
 P0410,차웅,Cha Woong,0,,,,list,conductor,1,0,,0
@@ -511,7 +511,7 @@ P0511,장신덕,Jang Sin-deok,1,,,,list,conductor,1,0,,0
 P0512,정두영,Jung Du-yeong,1,,,,list,conductor,1,0,,0
 P0513,정한결,Jung Han-gyeol,1,,,,list,conductor,1,0,,2
 P0514,주호,Joo Ho,1,,,,list,conductor,1,0,,0
-P0515,홀리 최,Holly Hyun Choe,0,1991,,Q137732431,list,conductor,0,0,festival_only;abroad_kr,10
+P0515,홀리 최,Holly Hyun Choe,0,1991,,Q137732431,list,conductor,0,0,festival_only;abroad_kr,11
 P0516,금수현,Keum Su-hyeon,1,1919,1992,Q12586510,list,conductor,1,0,root_kr,0
 P0517,김기범,Gideon Gee-Bum Kim,0,1964,,Q16195630,list,conductor,1,0,abroad_kr,0
 P0518,김덕기,Kim Deok-gi,1,1953,,Q12587163,list,conductor,1,0,,0
@@ -535,11 +535,11 @@ P0535,진솔,Sol Chin,0,1987,,Q31175389,list,conductor,1,0,,0
 P0536,최영섭,Choi Young-seop,0,1929,2026,Q16092163,list,conductor,1,0,root_kr,3
 P0537,한상일,Sang-il Han,0,1984,,,list,conductor,1,0,,0
 P0538,홍원기,Hong Won-ki,0,1966,,Q107297633,list,conductor,1,0,,0
-P0539,최재혁,Jaehyuck Choi,0,1994,,Q21005354,list,conductor,1,0,,6
+P0539,최재혁,Jaehyuck Choi,0,1994,,Q21005354,list,conductor,1,0,,9
 P0540,박칼린,Kolleen Park,0,1967,,Q6427361,list,conductor,1,0,,0
 P0541,헬렌 차-표,Helen Cha-Pyo,0,,,Q5702005,list,conductor,0,0,abroad_kr,0
 P0542,순희 뉴볼드,Soon Hee Newbold,0,,,Q7562684,list,conductor,0,0,abroad_kr,0
-P0543,이얼,Earl Lee,0,1983,,Q74262259,list,conductor,1,0,abroad_kr,7
+P0543,이얼,Earl Lee,0,1983,,Q74262259,list,conductor,1,0,abroad_kr,10
 P0544,Jeong In Hyeok,Jeong In Hyeok,0,,,,list,conductor,0,0,,0
 P0545,June-Sung Park,June-Sung Park,0,,,,list,conductor,0,0,,0
 P0546,Eunseok Seo,Eunseok Seo,0,,,,list,conductor,0,0,,0
@@ -557,19 +557,23 @@ P0557,발터 하겐-그롤,Walter Hagen-Groll,0,1927,2018,Q18029394,list,conduct
 P0558,휴 울프,Hugh Wolff,0,1953,,Q320019,list,conductor,0,0,,2
 P0559,니콜라스 파스케,Nicolás Pasquet,0,1958,,Q15441683,list,conductor,0,0,,5
 P0560,레오폴트 하거,Leopold Hager,0,1935,,Q78922,list,conductor,0,0,,1
-P0561,진은숙,Unsuk Chin,0,1961,,Q272236,list,conductor,1,0,,1
+P0561,진은숙,Unsuk Chin,0,1961,,Q272236,list,conductor,1,0,,2
 P0562,카를하인츠 슈토크하우젠,Karlheinz Stockhausen,0,1928,2007,Q154556,out,,0,0,,1
 P0564,고트프리트 아우구스트 호밀리우스,Gottfried August Homilius,0,1714,1785,Q451484,out,,0,0,,2
 P0565,루트비히 베르거,Ludwig Berger,0,1777,1839,Q452414,out,,0,0,,1
 P0566,루이 슈포어,Louis Spohr,0,1784,1859,Q57226,out,,0,1,,2
 P0567,모리츠 하우프트만,Moritz Hauptmann,0,1792,1868,Q60908,out,,0,0,,4
+P0568,요한 네포무크 훔멜,Johann Nepomuk Hummel,0,1778,1837,Q151953,out,,0,0,,1
 P0569,안드레아스 페테르 베르그렌,Andreas Peter Berggreen,0,1801,1880,Q499921,out,,0,1,,1
 P0570,베른하르트 롬베르크,Bernhard Romberg,0,1767,1841,Q213914,out,,0,0,,1
 P0571,알베르 루셀,Albert Roussel,0,1869,1937,Q313376,out,,0,0,,1
+P0573,알레산드로 부스티니,Alessandro Bustini,0,1876,1970,Q16181728,out,,0,0,,1
+P0574,시클로시 얼베르트,Albert Siklós,0,1878,1942,Q2638845,out,,0,1,,1
 P0575,브루노 베티넬리,Bruno Bettinelli,0,1913,2004,Q993053,out,,0,0,,1
+P0576,니노 로타,Nino Rota,0,1911,1979,Q214665,out,,0,0,,1
 P0577,찰스 마틴 레플러,Charles Martin Loeffler,0,1861,1935,Q1065471,out,,0,1,,1
 P0578,발두인 줄처,Balduin Sulzer,0,1932,2019,Q804824,out,,0,0,,1
-P0579,프란츠 리스트,Franz Liszt,0,1811,1886,Q41309,out,,0,0,,3
+P0579,프란츠 리스트,Franz Liszt,0,1811,1886,Q41309,out,,0,0,,4
 P0580,후버이 예뇌,Jenő Hubay,0,1858,1937,Q709178,out,,0,0,,1
 P0581,요제프 하스,Joseph Haas,0,1879,1960,Q452988,out,,0,0,,1
 P0582,알체오 갈리에라,Alceo Galliera,0,1910,1996,Q2619546,out,,0,0,,2
@@ -578,8 +582,8 @@ P0584,마테우스 르 메트르,Mattheus Le Maistre,0,1505,1577,Q780211,list,co
 P0585,안토니오 스칸델로,Antonio Scandello,0,1517,1580,Q466841,list,conductor,0,0,root_dresden,1
 P0586,조반니 바티스타 피넬리,Giovanni Battista Pinelli,0,1543,1587,Q834087,list,conductor,0,0,root_dresden,0
 P0587,로히어르 미하엘,Rogier Michael,0,1552,1619,Q507030,list,conductor,0,0,root_dresden,1
-P0588,빈첸초 알브리치,Vincenzo Albrici,0,1631,1696,Q543891,list,conductor,0,0,root_dresden,2
-P0589,조반니 안드레아 본템피,Giovanni Andrea Bontempi,0,1624,1705,Q875506,list,conductor,0,0,root_dresden,1
+P0588,빈첸초 알브리치,Vincenzo Albrici,0,1631,1696,Q543891,list,conductor,0,0,root_dresden,3
+P0589,조반니 안드레아 본템피,Giovanni Andrea Bontempi,0,1624,1705,Q875506,list,conductor,0,0,root_dresden,2
 P0590,카를로 팔라비치니,Carlo Pallavicini,0,1630,1688,Q320534,list,conductor,0,0,root_dresden,0
 P0591,니콜라우스 아담 슈트룽크,Nicolaus Adam Strungk,0,1640,1700,Q463939,list,conductor,0,0,root_dresden,2
 P0592,요한 크리스토프 슈미트,Johann Christoph Schmidt,0,1664,1728,Q1693070,list,conductor,0,0,root_dresden,2
@@ -601,6 +605,7 @@ P0607,율리우스 엡슈타인,Julius Epstein,0,,,,out,,0,1,,2
 P0608,프란츠 크렌,Franz Krenn,0,,,,out,,0,1,,1
 P0609,안토닌 드보르자크,Antonín Dvořák,0,,,,out,,0,1,,1
 P0610,이지도어 자이스,Isidor Seiss,0,,,,out,,0,1,,1
+P0611,아돌프 옌젠,Adolf Jensen,0,,,,out,,0,1,,1
 P0612,레안드로 카리니,Leandro Carini,0,,,,out,,0,1,,1
 P0613,주스토 다치,Giusto Dacci,0,,,,out,,0,1,,2
 P0614,하인리히 에를리히,Heinrich Ehrlich,0,,,,out,,0,1,,1
@@ -745,7 +750,7 @@ P0753,카를로 체키,Carlo Zecchi,0,,,,out,,0,1,,1
 P0754,파울 그뤼머,Paul Grümmer,0,,,,out,,0,1,,1
 P0755,에마누엘 브라베츠,Emanuel Brabec,0,,,,out,,0,1,,1
 P0756,프리처이 리하르드,Richárd Fricsay,0,,,,out,,0,1,,1
-P0757,세케이 아르놀드,Arnold Székely,0,,,,out,,0,1,,1
+P0757,세케이 아르놀드,Arnold Székely,0,,,,out,,0,1,,2
 P0758,맘브리니 줄러,Gyula Mambriny,0,,,,out,,0,1,,1
 P0759,알토 베르너,Alto Berner,0,,,,out,,0,1,,1
 P0760,서스턴 다트,Thurston Dart,0,,,,out,,0,1,,1
@@ -784,7 +789,7 @@ P0792,그자비에 르루,Xavier Leroux,0,,,,out,,0,1,,1
 P0793,조르주 코사드,Georges Caussade,0,,,,out,,0,1,,1
 P0794,폴 비달,Paul Vidal,0,,,,out,,0,1,,1
 P0795,레이먼드 레퍼드,Raymond Leppard,0,,,,out,,0,1,,1
-P0796,구스타프 레온하르트,Gustav Leonhardt,0,,,,out,,0,1,,1
+P0796,구스타프 레온하르트,Gustav Leonhardt,0,,,,out,,0,1,,2
 P0797,라파엘 푸야나,Rafael Puyana,0,,,,out,,0,1,,1
 P0798,주자나 루지치코바,Zuzana Růžičková,0,,,,out,,0,1,,1
 P0799,랠프 커크패트릭,Ralph Kirkpatrick,0,,,,out,,0,1,,1
@@ -859,7 +864,7 @@ P0867,게리 베르티니,Garry Bertini,0,,,,out,,0,1,,1
 P0868,레이프 세게르스탐,Leif Segerstam,0,,,,out,,0,1,,1
 P0869,한누 린투,Hannu Lintu,0,,,,out,,0,1,,1
 P0870,펠릭스 슬래트킨,Felix Slatkin,0,,,,out,,0,1,,1
-P0871,월터 서스킨드,Walter Susskind,0,,,,out,,0,1,,1
+P0871,월터 서스킨드,Walter Susskind,0,,,,out,,0,1,,2
 P0872,조지 화이트필드 채드윅,George Whitefield Chadwick,0,,,,out,,0,1,,1
 P0873,스티븐 A. 에머리,Stephen A. Emery,0,,,,out,,0,1,,1
 P0874,터셔스 노블,Tertius Noble,0,,,,out,,0,1,,1
@@ -869,7 +874,7 @@ P0877,고도프스키,Godowsky,0,,,,out,,0,1,,1
 P0878,륄만,Rühlmann,0,,,,out,,0,1,,1
 P0879,뒤프레,Dupré,0,,,,out,,0,1,,1
 P0880,르 플렘,Le Flem,0,,,,out,,0,1,,1
-P0881,케네스 키슬러,Kenneth Kiesler,0,,,,out,,0,1,,1
+P0881,케네스 키슬러,Kenneth Kiesler,0,,,,out,,0,1,,2
 P0882,C. 페라리니,C. Ferrarini,0,,,,out,,0,1,,1
 P0883,파올로 세라오,Paolo Serrao,0,,,,out,,0,1,,1
 P0884,베니아미노 체시,Beniamino Cesi,0,,,,out,,0,1,,1
@@ -1009,3 +1014,46 @@ P1020,로도비코 푸가,Lodovico Fuga,0,,,,out,,0,0,,1
 P1021,요한 쿠나우,Johann Kuhnau,0,,,,out,,0,0,,2
 P1022,요한 셸레,Johann Schelle,0,,,,out,,0,0,,1
 P1023,니콜라이 솔로비요프,Nikolai Solovyov,0,,,,out,,0,0,,1
+P1025,지크프리트 덴,Siegfried Dehn,0,1799,1858,Q62376,out,,0,1,,1
+P1026,뵈머,Böhmer,0,,,,out,,0,1,,1
+P1027,니콜리치,Nicolitsch,0,,,,out,,0,1,,1
+P1028,펠릭스 드레제케,Felix Draeseke,0,1835,1913,Q505062,out,,0,1,,1
+P1029,리하르트 홀,Richard Hol,0,1825,1904,Q350845,out,,0,1,,1
+P1030,요제프 마르크스,Joseph Marx,0,1882,1964,Q506561,out,,0,1,,2
+P1031,예지 랄레비치,Jerzy Lalewicz,0,1875,1951,Q4253394,out,,0,1,,1
+P1032,리하르트 슈퇴르,Richard Stöhr,0,1874,1967,Q3431248,out,,0,1,,1
+P1033,르네 롱지미켈,Renée Longy-Miquelle,0,,1979,Q116741703,out,,0,1,,1
+P1034,헬렌 코츠,Helen Coates,0,,,,out,,0,1,,1
+P1035,조르주 당들로,Georges Dandelot,0,1895,1975,Q323636,out,,0,1,,1
+P1036,리오넬 드 파흐만,Lionel de Pachmann,0,,,,out,,0,1,,1
+P1037,멜리 메타,Mehli Mehta,0,1908,2002,Q1985072,out,,0,1,,1
+P1038,프리츠 로이터,Fritz Reuter,0,1896,1963,Q382765,out,,0,1,,1
+P1039,알로이스 슈미트,Aloys Schmitt,0,1788,1866,Q527514,out,,0,1,,1
+P1040,크리스토프 에른스트 프리드리히 바이세,Christoph Ernst Friedrich Weyse,0,1774,1842,Q707924,out,,0,1,,1
+P1041,아돌프 폴리처,Adolf Pollitzer,0,1832,1900,Q2025160,out,,0,1,,1
+P1042,미켈란젤로 아바도,Michelangelo Abbado,0,1900,1979,Q1850160,out,,0,1,,1
+P1043,카를 에른스트 다니엘 니콜라이,Carl Ernst Daniel Nicolai,0,1785,1854,,out,,0,1,,1
+P1044,레미 프린치페,Remy Principe,0,1889,1977,Q4378919,out,,0,1,,1
+P1045,한스오토 슈미트노이하우스,Hans-Otto Schmidt-Neuhaus,0,1907,1971,Q131775345,out,,0,1,,1
+P1046,파울 벤하임,Paul Ben-Haim,0,1897,1984,Q215982,out,,0,1,,1
+P1047,프리드리히 굴다,Friedrich Gulda,0,1930,2000,Q345922,out,,0,1,,1
+P1048,해럴드 파버먼,Harold Farberman,0,1929,2018,Q1585812,out,,0,1,,1
+P1049,오귀스트 파레,Auguste Paray,0,,,,out,,0,1,,1
+P1050,메리 포츠,Mary Potts,0,1905,1982,,out,,0,1,,1
+P1051,헤수스 로페스 코보스,Jesús López Cobos,0,1940,2018,Q952160,out,,0,1,,1
+P1052,루이 노르블랭,Louis Norblin,0,1781,1854,Q2477161,out,,0,1,,1
+P1053,로이 헨더슨,Roy Henderson,0,1899,2000,Q2170848,out,,0,1,,1
+P1054,보리스 하이킨,Boris Khaikin,0,1904,1978,Q893653,out,,0,1,,1
+P1055,니콜라이 질랴예프,Nikolay Zhilyayev,0,1881,1938,Q1991025,out,,0,1,,1
+P1056,니콜라이 쿱신니코프,Nikolai Kuvshinnikov,0,,,,out,,0,1,,1
+P1057,G. 마츠카,G. Matzka,0,1825,1883,,out,,0,1,,1
+P1058,요제프 바인리히,Joseph Weinlich,0,,,,out,,0,1,,1
+P1059,구스타프 실링,Gustav Schilling,0,,,,out,,0,1,,1
+P1060,콜린 메터스,Colin Metters,0,1948,,Q5145410,out,,0,1,,1
+P1061,찰스 펠츠,Charles Peltz,0,,,,out,,0,1,,1
+P1062,올랜도 콜,Orlando Cole,0,1908,2010,Q2086487,out,,0,1,,1
+P1063,피터 와일리,Peter Wiley,0,1955,,Q7177710,out,,0,1,,1
+P1064,데이비드 소이어,David Soyer,0,1923,2010,Q1980144,out,,0,1,,1
+P1065,비르질리오 마초키,Virgilio Mazzocchi,0,1597,1646,Q375733,out,,0,1,,1
+P1066,H. 리스,H. Ries,0,,,,out,,0,1,,1
+P1067,구스타프 옌젠,Gustav Jensen,0,1843,1895,Q11925018,out,,0,1,,1
